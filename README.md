@@ -1,3 +1,6 @@
+<div align="center">
+<img src="file_0000000026288208b5d11fe61d3f19e0.png" width="100%">
+</div>
 <div align="center">🏁 SD CREATOR
 
 CREATE • BUILD • RACE
