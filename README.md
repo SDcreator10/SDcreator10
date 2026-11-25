@@ -3,7 +3,7 @@
 <li>🎮 Creating games and creative projects.</li>
 <li>💻 Learning game development.</li>
 <li>🚀 Building new ideas.</li>
-</ul><hr><h2>🚗 MY PROJECTS</h2><h3>🏎️ SD Vehicles Racing</h3><p>A fun 2D endless racing game created by SD Creator.</p><a href="https://github.com/SDcreator10/SD-Vehicles-Racing">📂 VIEW SOURCE CODE</a>
+<h2>🚗 MY PROJECTS</h2><h3>🏎️ SD Vehicles Racing</h3><p>A fun 2D endless racing game created by SD Creator.</p><p>🎮 <a href="https://sdcreator10.github.io/SD-Vehicles-Racing/"><strong>PLAY GAME</strong></a></p><p>📂 <a href="https://github.com/SDcreator10/SD-Vehicles-Racing"><strong>VIEW SOURCE CODE</strong></a></p>
 
 <hr><h2>💻 TECHNOLOGIES</h2><ul>
 <li>HTML5</li>
