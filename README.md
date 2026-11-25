@@ -1,7 +1,7 @@
 <div align="center">
 <img src="file_0000000026288208b5d11fe61d3f19e0.png" width="100%">
 </div>
-<div align="center">🏁 SD CREATOR
+<div align="center"><img src="file_0000000026288208b5d11fe61d3f19e0.png" width="100%">🏁 SD CREATOR
 
 CREATE • BUILD • RACE
 
@@ -20,6 +20,8 @@ Hi! I'm Senuth Dinsara, creator of SD Creator.
 - 💻 Learning game development.
 - 🚀 Building new ideas.
 
+---
+
 🚗 MY PROJECTS
 
 🏎️ SD Vehicles Racing
@@ -28,16 +30,21 @@ A fun 2D endless racing game created by SD Creator.
 
 "📂 VIEW SOURCE CODE" (https://github.com/SDcreator10/SD-Vehicles-Racing)
 
+---
+
 💻 TECHNOLOGIES
 
 - HTML5
 - JavaScript
 - Construct 2
 
+---
+
 🌐 CHECKOUT MY OTHER SOCIALS
 
-- ▶️ YouTube: "SD Vehicles" (https://youtube.com/@sdvehicle)
-- 📧 Contact: "sdcontact.official@gmail.com" (mailto:sdcontact.official@gmail.com)
+▶️ YouTube: "SD Vehicles" (https://youtube.com/@sdvehicle)
+
+📧 Contact: "sdcontact.official@gmail.com" (mailto:sdcontact.official@gmail.com)
 
 ---
 
@@ -45,6 +52,6 @@ A fun 2D endless racing game created by SD Creator.
 
 DRIVEN BY CREATIVITY.
 
-Thanks for visiting my profile! ❤️
+Thanks for visiting my profile!
 
 </div>
