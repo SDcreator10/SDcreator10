@@ -6,8 +6,6 @@ Welcome to my official GitHub profile!
 
 🏎️ Game Developer | Racing Enthusiast | Creator
 
-"🎮 PLAY SD VEHICLES RACING" (https://sdcreator10.github.io/SD-Vehicles-Racing/)
-
 </div>---
 
 👋 ABOUT ME
@@ -25,8 +23,6 @@ Hi! I'm Senuth Dinsara, creator of SD Creator.
 
 A fun 2D endless racing game created by SD Creator.
 
-"▶ PLAY GAME" (https://sdcreator10.github.io/SD-Vehicles-Racing/)
-
 "📂 VIEW SOURCE CODE" (https://github.com/SDcreator10/SD-Vehicles-Racing)
 
 💻 TECHNOLOGIES
@@ -35,10 +31,10 @@ A fun 2D endless racing game created by SD Creator.
 - JavaScript
 - Construct 2
 
-🌐 CONNECT WITH ME
+🌐 CHECKOUT MY OTHER SOCIALS
 
-- GitHub: "SDcreator10" (https://github.com/SDcreator10)
-- Game: "SD Vehicles Racing" (https://sdcreator10.github.io/SD-Vehicles-Racing/)
+- ▶️ YouTube: "SD Vehicles" (https://youtube.com/@sdvehicle)
+- 📧 Contact: "sdcontact.official@gmail.com" (mailto:sdcontact.official@gmail.com)
 
 ---
 
