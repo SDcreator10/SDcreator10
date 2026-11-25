@@ -1,54 +1,14 @@
-<div align="center"><img src="file_0000000026288208b5d11fe61d3f19e0.png" width="100%">🏁 SD CREATOR
+<div align="center"><img src="file_0000000026288208b5d11fe61d3f19e0.png" width="100%" alt="SD Creator F1 Banner"><h1>🏁 SD CREATOR</h1><h3>CREATE • BUILD • RACE</h3><p>Welcome to my official GitHub profile!</p><p>🏎️ Game Developer | Racing Enthusiast | Creator</p></div><hr><h2>👋 ABOUT ME</h2><p>Hi! I'm <strong>Senuth Dinsara</strong>, creator of <strong>SD Creator</strong>.</p><ul>
+<li>🏎️ Interested in Formula 1 and Supercars.</li>
+<li>🎮 Creating games and creative projects.</li>
+<li>💻 Learning game development.</li>
+<li>🚀 Building new ideas.</li>
+</ul><hr><h2>🚗 MY PROJECTS</h2><h3>🏎️ SD Vehicles Racing</h3><p>A fun 2D endless racing game created by SD Creator.</p><a href="https://github.com/SDcreator10/SD-Vehicles-Racing">📂 VIEW SOURCE CODE</a>
 
-CREATE • BUILD • RACE
+<hr><h2>💻 TECHNOLOGIES</h2><ul>
+<li>HTML5</li>
+<li>JavaScript</li>
+<li>Construct 2</li>
+</ul><hr><h2>🌐 CHECKOUT MY OTHER SOCIALS</h2><p>▶️ <strong>YouTube:</strong> <a href="https://youtube.com/@sdvehicle">SD Vehicles</a></p><p>📧 <strong>Contact:</strong> <a href="mailto:sdcontact.official@gmail.com">sdcontact.official@gmail.com</a></p><hr><div align="center"><h3>🏁 SD CREATOR</h3><strong>DRIVEN BY CREATIVITY.</strong>
 
-Welcome to my official GitHub profile!
-
-🏎️ Game Developer | Racing Enthusiast | Creator
-
-</div>---
-
-👋 ABOUT ME
-
-Hi! I'm Senuth Dinsara, creator of SD Creator.
-
-- 🏎️ Interested in Formula 1 and Supercars.
-- 🎮 Creating games and creative projects.
-- 💻 Learning game development.
-- 🚀 Building new ideas.
-
----
-
-🚗 MY PROJECTS
-
-🏎️ SD Vehicles Racing
-
-A fun 2D endless racing game created by SD Creator.
-
-"📂 VIEW SOURCE CODE" (https://github.com/SDcreator10/SD-Vehicles-Racing)
-
----
-
-💻 TECHNOLOGIES
-
-- HTML5
-- JavaScript
-- Construct 2
-
----
-
-🌐 CHECKOUT MY OTHER SOCIALS
-
-▶️ YouTube: "SD Vehicles" (https://youtube.com/@sdvehicle)
-
-📧 Contact: "sdcontact.official@gmail.com" (mailto:sdcontact.official@gmail.com)
-
----
-
-<div align="center">🏁 SD CREATOR
-
-DRIVEN BY CREATIVITY.
-
-Thanks for visiting my profile!
-
-</div>
+<p>Thanks for visiting my profile!</p></div>
